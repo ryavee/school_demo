@@ -33,7 +33,7 @@ This project is a simple PHP application to manage students and classes in a sch
 
 - Ensure XAMPP (or your local server) is running.
 - Place the project folder (`school_demo`) inside the `htdocs` directory of XAMPP.
-- Edit the `db.php` file and update the database credentials if necessary.
+- Edit the `db.php` file and update the database credentials if necessary. 
 
 4. **Run the project**
 - Open a web browser and navigate to [http://localhost/school_demo](http://localhost/school_demo).
